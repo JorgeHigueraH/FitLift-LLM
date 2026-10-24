@@ -1,0 +1,12 @@
+# Entorno virtual y binarios
+venv/
+__pycache__/
+*.pyc
+
+# Bases de datos (SQL y Vectorial) y PDFs
+data/
+*.db
+*.sqlite3
+
+# Variables de entorno (Seguridad)
+.env
